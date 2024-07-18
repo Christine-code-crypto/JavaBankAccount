@@ -8,7 +8,7 @@ class Outer{
     }
 }
 
-public class Main{
+public class Stattic{
     public static void main(String[] args) {
         //accessing outer class
         Outer myOuter = new Outer();
